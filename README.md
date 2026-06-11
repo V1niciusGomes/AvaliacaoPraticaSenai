@@ -1,4 +1,4 @@
-# Avaliação Prática 1 - Biblioteca Digital
+# Avaliação Prática 
 
 Projeto JSP/Servlet/JPA.
 Funcionalidades:
